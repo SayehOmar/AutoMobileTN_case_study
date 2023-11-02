@@ -34,4 +34,4 @@ The web scraping phase of this project was implemented using Python and the Beau
 ## Data Visualization
 
 -The data Visualization part i used <span style="color: red;">Matplotlib Library</span> to create histogram bars and to show case geospatial files.
-![Images](/AutoMobileTN_case_study/Images/Average%20car%20price%20by%20brand.png)
+![Images](https://github.com/SayehOmar/AutoMobileTN_case_study/blob/main/Images/Average%20car%20price%20by%20brand.png)
