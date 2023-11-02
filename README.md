@@ -29,9 +29,11 @@ The web scraping phase of this project was implemented using Python and the Beau
 
 ## Data Cleaning
 
-- Cleaning the data was about eleminating doubles, changing columns data types and preparing the data for visualization for that i used <span style="color: red;">Pandas</span> and <span style="color: red;">Geopandas</span>  .
+- Cleaning the data was about eleminating doubles, changing columns data types and preparing the data for visualization for that i used Pandas and Geopandas  .
 
 ## Data Visualization
 
--The data Visualization part i used <span style="color: red;">Matplotlib Library</span> to create histogram bars and to show case geospatial files.
+-The data Visualization part i used Matplotlib Library to create histogram bars and to show case geospatial files.
 ![Images](https://github.com/SayehOmar/AutoMobileTN_case_study/blob/main/Images/Average%20car%20price%20by%20brand.png)
+-Geospatial Aspect.
+![Images](https://github.com/SayehOmar/AutoMobileTN_case_study/blob/main/Images/City%20occurrences%20based%20on%20Cars%20announcements.png)
