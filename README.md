@@ -11,7 +11,7 @@ This repository contains the code and data related to web scraping, data cleanin
 
 ## Introduction
 
-Briefly introduce your project, its purpose, and the context in which it was developed.
+- This projects aims to showcases the different aspect of used cars market through analysis using Python.
 
 ## Web Scraping
 
